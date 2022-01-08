@@ -9,9 +9,7 @@
 3. Extend the app to your own learning purposes
 
 ![Sample code](/WeatherSampleApp/Weather01.png)
-
-![Xcode screen sample (/WeatherSampleApp/Weather02.png)
-
+![Xcode screen sample](/WeatherSampleApp/Weather02.png)
 ![Final screen](/WeatherSampleApp/Weather03.png)
 
 
