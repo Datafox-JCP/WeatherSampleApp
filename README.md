@@ -10,7 +10,7 @@
 
 ![Sample code](/WeatherSampleApp/Weather01.png)
 ![Xcode screen sample](/WeatherSampleApp/Weather02.png)
-![Final screen](/WeatherSampleApp/Weather03.png)
+![Final screen](/WeatherSampleApp/WeatherApp.png)
 
 
 📌 Core Location
