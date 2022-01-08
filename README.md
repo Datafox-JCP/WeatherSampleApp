@@ -8,9 +8,9 @@
 2. It uses climate data from https://openweathermap.org
 3. Extend the app to your own learning purposes
 
-![Sample code](/Weather02.png)
-![Xcode screen sample [/Weather01.png]
-![Final screen](/Weather03.png)
+![Sample code](/WeatherSampleApp/Weather02.png)
+![Xcode screen sample (/WeatherSampleApp/Weather02.png)
+![Final screen](/WeatherSampleApp/Weather02.png)
 
 
 📌 Core Location
